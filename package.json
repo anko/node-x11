@@ -44,7 +44,7 @@
     "should": "*",
     "sax": "*",
     "async": "*",
-    "sinon": "*"
+    "sinon": ">=2.3.0"
   },
   "scripts": {
     "test": "node test-runner.js",
